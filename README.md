@@ -1,1 +1,1 @@
-# data-science-libraries
+tThis repo is for python data science exercises.
